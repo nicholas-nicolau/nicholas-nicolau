@@ -4,7 +4,7 @@
   Hey there! <br>
   My name is Nicholas. <br>
   I'm in the last year of my Electrical Engineering bachelor's degree and adventuring myself through this amazing code world.<br>
-  Currently I'm studying HTML, CSS and JS, targeting work as <strong>FULL STACK DEV.</strong><br>
+  Currently I'm studying software development targeting work as <strong>FULL STACK DEV.</strong><br>
   Hope we can be friends 👋
 </p>
 
