@@ -3,7 +3,7 @@
 <p align="left"> 
   Hey there! <br>
   My name is Nicholas. <br>
-  I'm in the last year of my Electrical Engineering bachelor's degree and adventuring myself through this amazing code world.<br>
+  I'm in the last year of my Engineering bachelor's degree and adventuring myself through this amazing code world.<br>
   Currently I'm studying software development targeting work as <strong>FULL STACK DEV.</strong><br>
   Hope we can be friends 👋
 </p>
