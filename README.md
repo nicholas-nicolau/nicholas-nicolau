@@ -9,14 +9,6 @@
 </p>
 
 <p align="left">
- ⚙ Languages: <strong>HTML, CSS, JS</strong>
-</p>
-
-<p align="left">
-  💼 Worktools: <strong>Working on it</strong>
-</p>
-
-<p align="left">
   💌 Let me know if there is something that you want to talk to me ⤵️
 </p>
 
